@@ -19,12 +19,15 @@ ENFIELD_TENNIS_ACADEMY = [
 def assembled_matrix
   # Build an array that contains (or, "nests") the residents of The Ennet House
   # and the Enfield Tennis Academy as provided by the constants
+  array = [array=[]]
 end
 
 def array_literal_matrix
   # Using Array literal syntax only, build a nested array that uses the data in
   # side the ENNET_HOUSE and ENFIELD_TENNIS_ACADEMY Arrays but sorts
   # alphabetically by the first character.
+  
+  
 end
 
 def matrix_lookup(matrix, row, column)
